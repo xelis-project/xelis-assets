@@ -51,16 +51,4 @@ Formats available are `svg` and `png`.
 </p>
 
 ## Xelis "Xelite" Mascot
-
-<p align="center">
-	<img src="https://github.com/xelis-project/xelis-assets/raw/master/xelis-mascot/png/xelite-angry.png" width="64" />
-	<img src="https://github.com/xelis-project/xelis-assets/raw/master/xelis-mascot/png/xelite-content.png" width="64" />
-	<img src="https://github.com/xelis-project/xelis-assets/raw/master/xelis-mascot/png/xelite-determined.png" width="64" />
-	<img src="https://github.com/xelis-project/xelis-assets/raw/master/xelis-mascot/png/xelite-discouraged.png" width="64" />
-	<img src="https://github.com/xelis-project/xelis-assets/raw/master/xelis-mascot/png/xelite-dominator.png" width="64" />
-	<img src="https://github.com/xelis-project/xelis-assets/raw/master/xelis-mascot/png/xelite-pained.png" width="64" />
-	<img src="https://github.com/xelis-project/xelis-assets/raw/master/xelis-mascot/png/xelite-sad.png" width="64" />
-	<img src="https://github.com/xelis-project/xelis-assets/raw/master/xelis-mascot/png/xelite-vengeful.png" width="64" />
-	<img src="https://github.com/xelis-project/xelis-assets/raw/master/xelis-mascot/png/xelite-wtf.png" width="64" />
-	<img src="https://github.com/xelis-project/xelis-assets/raw/master/xelis-mascot/png/xelite-all-many-moods.png" width="64" />
-</p>
+<img src="https://github.com/xelis-project/xelis-assets/raw/master/xelite-mascot/png/xelites-all-many-moods.png" width="1024" />
