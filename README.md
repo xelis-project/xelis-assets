@@ -4,6 +4,8 @@ All images, designs, banners or other templates used by the project are stored a
 
 Formats available are `svg` and `png`.
 
+Main logo color is `#02FFCF` (RGB: 2, 255, 207).
+
 ## Icons
 
 ### Circle
